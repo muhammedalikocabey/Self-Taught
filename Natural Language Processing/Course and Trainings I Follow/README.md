@@ -34,7 +34,7 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 ------------------
 
 # TR
-## Makine Öğrenmesi alanında takip ettiğim kurs ve eğitimler
+## Doğal Dil İşleme alanında takip ettiğim kurs ve eğitimler
 
 ------------------
 
