@@ -6,15 +6,19 @@
 ------------------
 
 #### Finished
-- [ ]
+- [ ] **[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera* 
+	- [x] **[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera* - [Certificate](https://www.coursera.org/account/accomplishments/verify/4J5835XH4B4T)
 
 
 #### Currently Working
 - [ ] **[NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)  -  Jose Portillo** - *Udemy*
+	- [ ] **[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 
 
 #### Planned to work
-- [ ]
+- [ ] **[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera* 
 
 
 
@@ -35,7 +39,8 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 ------------------
 
 #### Bitirildi
-- [ ]
+- [ ] **[Doğal Dil İşleme Uzmanlığı](https://www.coursera.org/specializations/natural-language-processing) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera* 
+	- [x] **[Sınıflandırma ve Vektör Uzaylarıyla Doğal Dil İşleme](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera* - [Sertifika](https://www.coursera.org/account/accomplishments/verify/4J5835XH4B4T)
 
 
 #### Şu anda çalışılıyor
@@ -43,7 +48,10 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 
 
 #### Çalışılması Planlanıyor
-- [ ]
+- [ ] **[NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)  -  Jose Portillo** - *Udemy*
+	- [ ] **[Olasılıklı Modellerle Doğal Dil İşleme](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Dizi Modelleriyle Doğal Dil İşleme](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Dikkat Modelleri ile Doğal Dil İşleme](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 
 
 

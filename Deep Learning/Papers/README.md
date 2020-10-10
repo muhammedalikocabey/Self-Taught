@@ -11,7 +11,7 @@
 - [x] **[VGG-16 - Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)** - **Karen Simonyan - Andrew Zisserman**
 - [x] **[ResNet - Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)** - ** Kaiming He - Xiangyu Zhang - Shaoqing Ren - Jian Sun**
 - [x] **[InceptionNet - Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)** - **Christian Szegedy - Wei Liu - Yangqing Jia - Pierre Sermanet - Scott Reed - Dragomir Anguelov - Dumitru Erhan - Vincent Vanhoucke - Andrew Rabinovich**
-
+- [x] ** [Learning Fine-grained Image Similarity with Deep Ranking](https://arxiv.org/abs/1404.4661)** - **Jiang Wang - Yang Song - Thomas Leung - Chuck Rosenberg - Jingbin Wang - James Philbin - Bo Chen - Ying Wu** 
 
 #### Currently reading
 - [ ] 
@@ -46,6 +46,7 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 - [x] **[VGG-16 - Büyük Ölçekli Görüntü Tanıma İçin Çok Derin Evrişimli Ağlar](https://arxiv.org/abs/1409.1556)** - **Karen Simonyan - Andrew Zisserman**
 - [x] **[ResNet - Görüntü Tanıma için Derin Artık Öğrenme](https://arxiv.org/abs/1512.03385)** - ** Kaiming He - Xiangyu Zhang - Shaoqing Ren - Jian Sun**
 - [x] **[InceptionNet - Konvolüsyonlarla Daha Derine İnmek](https://arxiv.org/abs/1409.4842)** - **Christian Szegedy - Wei Liu - Yangqing Jia - Pierre Sermanet - Scott Reed - Dragomir Anguelov - Dumitru Erhan - Vincent Vanhoucke - Andrew Rabinovich**
+- [x] ** [Derin Sıralama ile İnce Taneli Görüntü Benzerliğini Öğrenmek](https://arxiv.org/abs/1404.4661)** - **Jiang Wang - Yang Song - Thomas Leung - Chuck Rosenberg - Jingbin Wang - James Philbin - Bo Chen - Ying Wu** 
 
 
 #### Şu anda okunuyor
