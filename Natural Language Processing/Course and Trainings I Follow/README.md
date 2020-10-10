@@ -12,14 +12,14 @@
 
 #### Currently Working
 - [ ] **[NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)  -  Jose Portillo** - *Udemy*
-	- [ ] **[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
-	- [ ] **[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
-	- [ ] **[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+
 
 
 #### Planned to work
 - [ ] **[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera* 
-
+	- [ ] **[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+	- [ ] **[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 
 
 
@@ -59,8 +59,3 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
 
 Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
-
-
-
-
-
