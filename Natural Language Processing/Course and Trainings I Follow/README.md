@@ -48,10 +48,10 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 
 
 #### Çalışılması Planlanıyor
-- [ ] **[NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)  -  Jose Portillo** - *Udemy*
-	- [ ] **[Olasılıklı Modellerle Doğal Dil İşleme](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
-	- [ ] **[Dizi Modelleriyle Doğal Dil İşleme](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
-	- [ ] **[Dikkat Modelleri ile Doğal Dil İşleme](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
+- [ ] **[NLP - Doğal Dil İşleme Uzmanlığı](https://www.coursera.org/specializations/natural-language-processing)  -  Younes Bensouda Mourri - Lukasz Kaiser** - *Coursera*
+	- [ ] **[Olasılıklı Modellerle Doğal Dil İşleme](https://www.coursera.org/learn/probabilistic-models-in-nlp) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera*
+	- [ ] **[Dizi Modelleriyle Doğal Dil İşleme](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera*
+	- [ ] **[Dikkat Modelleri ile Doğal Dil İşleme](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - Lukasz Kaiser - deeplearning.ai** - *Coursera*
 
 
 
