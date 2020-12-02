@@ -1,5 +1,3 @@
-------------------
-
 # EN
 
 ## Here, I share the steps I took while learning the **Git Version Control System** that I had previously learned but tried to master.
@@ -7,16 +5,14 @@
 
 ------------------
 
+
+
 &nbsp;
 &nbsp;
 
 
-
-------------------
 
 # TR
-
-------------------
 
 ## Burada daha öncesinde bilgi sahibi olduğum fakat uzmanlaşmaya çalıştığım **Git Versiyon Kontrol Sistemini** öğrenirken attığım adımları paylaşıyorum.
 ## Bu teknolojide kendimi geliştirirken takip ettiğim kaynakları, eğitimleri ve olanakları anlık olarak bu repository içinden takip edip siz de bilgi sahibi olabilirsiniz.  

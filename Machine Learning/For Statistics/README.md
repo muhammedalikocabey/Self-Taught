@@ -1,6 +1,5 @@
-------------------
-
 # EN
+
 ## Books and resources followed for Applied statistics for Machine Learning
 
 
@@ -21,21 +20,17 @@
 - [ ] **Pattern Recognition and Machine Learning** - **Christopher M. Bishop**
 - [ ] **Python: Real World Machine Learning** - **Prateek Joshi**
 
-
-
-
-
-You can browse my [website](https://www.muhammedalikocabey.com/blog) for more.
-
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
-
-
-
-
-
 ------------------
 
+
+
+&nbsp;
+&nbsp;
+
+
+
 # TR
+
 ## Makine Öğrenmesi-Uygulamalı İstatistik için takip edilen kitaplar 
 
 ------------------
@@ -59,15 +54,4 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 - [ ] **[20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/?id=132)**
 - [ ] **[Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html)**
 
-
-
-
-
-Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
-
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
-
-
-
-
-
+------------------

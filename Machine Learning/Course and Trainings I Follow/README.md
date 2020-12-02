@@ -1,6 +1,5 @@
-------------------
-
 # EN
+
 ## Courses and trainings I followed in the field of Machine Learning
 
 ------------------
@@ -26,21 +25,17 @@
 ](https://professional.mit.edu/programs/certificate-programs/professional-certificate-program-machine-learning-artificial) - MIT** - *MIT* 
 - [ ] **[Machine Learning Stanford Online](https://online.stanford.edu/courses/cs229-machine-learning) - CS229 - Stanford School of Engineering** - *Stanford Online* 
 
+------------------ 
 
 
 
-
-You can browse my [website](https://www.muhammedalikocabey.com/blog) for more.
-
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
+&nbsp;
+&nbsp;
 
 
-
-
-
-------------------
 
 # TR
+
 ## Makine Öğrenmesi alanında takip ettiğim kurs ve eğitimler
 
 ------------------
@@ -68,15 +63,4 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 ](https://professional.mit.edu/programs/certificate-programs/professional-certificate-program-machine-learning-artificial) - MIT** - *Professional MIT* 
 - [ ] **[Stanford Online Makine Öğrenmesi](https://online.stanford.edu/courses/cs229-machine-learning) - CS229 - Stanford School of Engineering** - *Stanford Online* 
 
-
-
-
-
-Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
-
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
-
-
-
-
-
+------------------

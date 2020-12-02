@@ -1,6 +1,5 @@
-------------------
-
 # EN
+
 ## Courses and trainings I followed in the field of Deep Learning
 
 ------------------
@@ -26,20 +25,17 @@
      - [ ] **[Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - Laurence Moroney - deeplearning.ai** - *Coursera* 
      - [ ] **[Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - Laurence Moroney - deeplearning.ai** - *Coursera* -    
 
-
-
-
-You can browse my [website](https://www.muhammedalikocabey.com/blog) for more.
-
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
-
-
-
-
-
 ------------------
 
+
+
+&nbsp;
+&nbsp;
+
+
+
 # TR
+
 ## Derin Öğrenme alanında takip ettiğim kurs ve eğitimler
 
 ------------------
@@ -65,9 +61,4 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
      - [ ] **[TensorFlow'da Doğal Dil İşleme](https://www.coursera.org/learn/natural-language-processing-tensorflow) - Laurence Moroney - deeplearning.ai** - *Coursera* 
      - [ ] **[Diziler, Zaman Serileri ve Tahmin](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - Laurence Moroney - deeplearning.ai** - *Coursera* -  
 
-
-
-
-Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
-
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
+------------------
