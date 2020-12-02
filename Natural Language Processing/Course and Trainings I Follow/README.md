@@ -1,6 +1,5 @@
-------------------
-
 # EN
+
 ## Courses and trainings I followed in the field of Natural Language Processing
 
 ------------------
@@ -21,19 +20,17 @@
 	- [ ] **[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 	- [ ] **[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 
-
-
-You can browse my [website](https://www.muhammedalikocabey.com/blog) for more.
-
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
-
-
-
-
-
 ------------------
 
+
+
+&nbsp;
+&nbsp;
+
+
+
 # TR
+
 ## Doğal Dil İşleme alanında takip ettiğim kurs ve eğitimler
 
 ------------------
@@ -53,9 +50,4 @@ For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto
 	- [ ] **[Dizi Modelleriyle Doğal Dil İşleme](https://www.coursera.org/learn/sequence-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 	- [ ] **[Dikkat Modelleri ile Doğal Dil İşleme](https://www.coursera.org/learn/attention-models-in-nlp) - Younes Bensouda Mourri - deeplearning.ai** - *Coursera*
 
-
-
-
-Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
-
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
+------------------
