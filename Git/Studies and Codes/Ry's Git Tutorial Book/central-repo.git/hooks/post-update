@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Output a friendly message
+echo "Publishing master branch!" >&2
+
+# Remove the old `my-website` directory (if necessary)
+rm -rf ../my-website
+
+# Create a new `my-website` directory
+mkdir ../my-website
+
+# Archive the `master` branch
+git archive master --format=tar --output=../my-website.tar
+
+# Uncompress the archive into the `my-website` directory
+tar -xf ../my-website.tar -C ../my-website
+
+exit 0

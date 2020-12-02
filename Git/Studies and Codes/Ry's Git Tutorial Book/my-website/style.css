@@ -1,0 +1,31 @@
+body {
+	padding: 20px;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 14px;
+	color: #111;
+}
+
+p, ul {
+margin-bottom: 10px;
+}
+
+ul {
+	margin-left: 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+a:link, a:visited {
+  color: #03C;
+}
+
+h3 {
+	font-size: 18px;
+	margin-left: 20px;
+}
