@@ -5,10 +5,9 @@
 
 ------------------
 
-#### Libraries Used
-- Pandas
-- Numpy
-- Matplotlib
+#### Frameworks and Libraries Used
+-
+
 ------------------
 
 
@@ -24,9 +23,8 @@
 
 ------------------
 
-#### Kullanılan Kütüphaneler
-- Pandas
-- Numpy
-- Matplotlib
+#### Kullanılan Kütüphaneler ve Framework'ler
+-
+
 
 ------------------
