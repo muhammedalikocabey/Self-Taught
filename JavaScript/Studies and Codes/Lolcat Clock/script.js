@@ -1,9 +1,9 @@
 var wakeuptime = 7;
-var noon = 12;
 var lunchtime = 12
 var naptime = lunchtime + 2;
 var partytime;
 var evening = 18;
+var noon = 12;
 
 
 
@@ -38,7 +38,7 @@ var showCurrentTime = function() {
  	}
 
 
- 	var clockTime = hours + ":" + minutes + ":" + seconds + " " + meridian + "!";
+ 	var clockTime = hours + ":" + minutes + ":" + seconds + "  " + meridian + " !";
 
  	clock.innerText = clockTime;
 };
@@ -51,11 +51,11 @@ var updateClock = function() {
 
 	var time = new Date().getHours();
 	var messageText;
-	var image = "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/08/normalTime.jpg";
+	var image;
 
 	var timeEventJS = document.getElementById("timeEvent");
 
-	var lolcatImageJS = document.getElementById("lolcatImage");
+	var lolcatImage = document.getElementById("lolcatImage");
 
 
 	if(time == partytime) {
@@ -104,7 +104,6 @@ var updateClock = function() {
 
 };
 
-updateClock();
 
 
 
