@@ -6,6 +6,9 @@ var partytime;
 var evening = 18;
 
 
+
+
+
 var showCurrentTime = function() {
 
 	var clock = document.getElementById('clock');
@@ -39,6 +42,8 @@ var showCurrentTime = function() {
 
  	clock.innerText = clockTime;
 };
+
+
 
 
 
@@ -103,8 +108,12 @@ updateClock();
 
 
 
+
+
 var oneSecond = 1000;
 setInterval(updateClock, oneSecond);
+
+
 
 
 
@@ -130,6 +139,8 @@ partyEvent();
 
 
 
+
+
 var wakeUpTimeSelector = document.getElementById("wakeUpTimeSelector");
 
 var wakeUpEvent = function() {
@@ -140,6 +151,8 @@ wakeUpTimeSelector.addEventListener("change", wakeUpEvent);
 
 
 
+
+
 var lunchTimeSelector = document.getElementById("lunchTimeSelector");
 
 var lunchEvent = function() {
@@ -147,6 +160,8 @@ var lunchEvent = function() {
 }
 
 lunchTimeSelector.addEventListener("change", lunchEvent);
+
+
 
 
 
