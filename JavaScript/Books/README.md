@@ -7,7 +7,7 @@
 
 #### Finished
 - [x] **A Smarter Way to Learn JavaScript** - **Mark Myers**
-
+- [x] **Learn JavaScript Visually** - **Ivelin Demirov**
 
 
 #### Currently Reading
@@ -30,7 +30,8 @@
 ------------------
 
 #### Bitirildi
-- [x] **JavaScript Öğrenmenin Daha Akıllı Bir Yolu** - **Mark Myers**
+- [x] **A Smarter Way to Learn JavaScript** - **Mark Myers**
+- [x] **Learn JavaScript Visually** - **Ivelin Demirov**
 
 
 #### Şu anda okunuyor
