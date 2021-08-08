@@ -22,7 +22,7 @@ $sql = "INSERT INTO visitors (name , email, phone, photo)
 VALUES ('$name', '$email', '$phone', '$pic')";
 
 if ($conn->query($sql) === TRUE) {
-    echo "Kayit basariyla yaratildi ";
+    echo "Kayit basariyla yaratildi ve değiştirdim";
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 }
