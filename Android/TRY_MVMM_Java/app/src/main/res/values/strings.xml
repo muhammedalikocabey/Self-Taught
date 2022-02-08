@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">TRY_MVMM_Java</string>
+    <string name="heading" translatable="false">MVMM Architecture Pattern</string>
+    <string name="email_hint" translatable="false">Enter Your Email</string>
+    <string name="password_hint" translatable="false">Enter your password</string>
+    <string name="button_text" translatable="false">Login</string>
+</resources>
